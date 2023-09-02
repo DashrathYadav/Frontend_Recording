@@ -1,0 +1,27 @@
+.Home--container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.Home--form{
+    border : 1px solid;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+}
+.Home--form input{
+    padding: 10px;
+    font-size: large;
+}
+
+.Home--form button{
+
+    padding: 10px 15px;
+}

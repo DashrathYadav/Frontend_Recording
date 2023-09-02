@@ -1,0 +1,64 @@
+.Recording--container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.Recording--video{
+    width: 300px;
+}
+
+.disable{
+    display: none;
+}
+
+.Recording--BtnsDiv{
+    margin: 30px;
+    display: flex;
+    justify-content: space-between;
+   
+}
+.Recording--btn{
+    padding: 10px 15px;
+    cursor: pointer;
+    margin: 20px;
+    border: none;
+}
+
+.Recording--btn--stop{
+    border-radius: 4px;
+    background-color: crimson;
+}
+
+.Recording--btn--start{
+    border-radius: 4px;
+    background-color:aqua;
+    border: none;
+}
+
+.Recording--btn:hover{
+    opacity: .8;
+}
+
+.Recording--download{
+    margin: 40px  ;
+}
+.Recording--uploadedLlink{
+    margin: 40px  ;
+}
+
+.Recordig--uploadEngage{
+ position: fixed;
+ width: 100%;
+ height: 100vh;
+ background-color: grey;
+ opacity: .5;
+ display: flex;
+ justify-content: center;
+ margin-top: 50px;
+}
+#recordingOption{
+    padding: 20px;
+    font-size: large;
+}
