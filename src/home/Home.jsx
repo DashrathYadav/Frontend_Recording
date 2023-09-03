@@ -24,6 +24,7 @@ function Home() {
       const result = await axios.post(url, data, {
         withCredentials: true,
       });
+      sessionStorage.setItem('id',result.data.result._id);
      console.log(result);
       navigate('/recording');
     } catch (err) {

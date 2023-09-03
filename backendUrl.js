@@ -1,3 +1,5 @@
 export const backendUrl =()=>{
-    return "http://localhost:3000/" ;
+    return "https://recordingbackend.onrender.com/" ;
 }
+//http://localhost:3000/
+//https://recordingbackend.onrender.com
