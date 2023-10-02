@@ -1,16 +1,17 @@
-# Screen Recording, saving and Uploading.
+# Screen Recording, saving, and Uploading.
 
 .
 ### Demo: https://recordingapp.netlify.app/
 
+#### Backend: https://github.com/DashrathYadav/Backend
 .
 
 ## Provide Basic UI 
 - register
-- record screenSharing
+- record screen-sharing
 - record webcam
-- download recorded stream
-- upload recorded stream to cloud.
+- download the recorded stream
+- upload recorded stream to the cloud.
 
 .
 .
@@ -28,13 +29,13 @@
 ![App Screenshot](https://res.cloudinary.com/dxsbiobeg/image/upload/v1696226220/Recording%20app/Screenshot_104_urlsye.png)
 
 ###  ----------------------------------------------------
-- ### After download ( download , upload)
+- ### After download ( download, upload)
 
 ![App Screenshot](https://res.cloudinary.com/dxsbiobeg/image/upload/v1696226221/Recording%20app/Screenshot_106_mtmswv.png)
 
 ###  ----------------------------------------------------
 
-- ### Reviewing recorded video using link
+- ### Reviewing recorded video using the link
 
 ![App Screenshot](https://res.cloudinary.com/dxsbiobeg/image/upload/v1696226220/Recording%20app/Screenshot_107_jiid0k.png)
 
